@@ -1,5 +1,6 @@
 // files
 *.vcxproj
+*.user
 
 // directories
 bin/
